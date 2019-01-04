@@ -1,3 +1,3 @@
 # RoyalCommands
 Example repository
-6
+7
